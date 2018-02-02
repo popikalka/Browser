@@ -1,0 +1,18 @@
+﻿<Application x:Class="PersonalBrowser.Wpf.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:PersonalBrowser.Wpf" 
+             xmlns:converter="clr-namespace:PersonalBrowser.Wpf.Converters"
+             Startup="Application_Startup">
+    <Application.Resources>
+        <converter:ListConverter x:Key="ListConverter"/>
+        <converter:UrlConverter x:Key="UrlConverter"/>
+
+        <Style x:Key="ListViewStyle">
+            <Setter Property="Control.FontFamily" Value="Calibri"></Setter>
+            <Setter Property="Control.FontSize" Value="18"></Setter>
+            <Setter Property="Control.Foreground" Value="#285473"></Setter>
+            <Setter Property="Control.BorderThickness" Value="0"></Setter>
+        </Style>
+    </Application.Resources>
+</Application>

@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginForm", "LoginForm\LoginForm.csproj", "{4266D7AD-0E66-4190-B20F-1EDC767DB5A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalBrowser.Wpf", "PersonalBrowser.Wpf\PersonalBrowser.Wpf.csproj", "{FE38B0AF-7DA8-47E5-938A-2D3C53CE8939}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalBrowser.Core", "PersonalBrowser.Core\PersonalBrowser.Core.csproj", "{32B9F4E0-C446-4D8A-A578-090F97E66436}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalBrowser.Tests.Core", "PersonalBrowser.Tests.Core\PersonalBrowser.Tests.Core.csproj", "{66D7C81F-AFD9-45DD-A0DF-3996DE331F77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4266D7AD-0E66-4190-B20F-1EDC767DB5A1}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{4266D7AD-0E66-4190-B20F-1EDC767DB5A1}.Debug|x86.ActiveCfg = Debug|x86
+		{4266D7AD-0E66-4190-B20F-1EDC767DB5A1}.Debug|x86.Build.0 = Debug|x86
+		{4266D7AD-0E66-4190-B20F-1EDC767DB5A1}.Release|Any CPU.ActiveCfg = Release|x86
+		{4266D7AD-0E66-4190-B20F-1EDC767DB5A1}.Release|x86.ActiveCfg = Release|x86
+		{4266D7AD-0E66-4190-B20F-1EDC767DB5A1}.Release|x86.Build.0 = Release|x86
+		{FE38B0AF-7DA8-47E5-938A-2D3C53CE8939}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE38B0AF-7DA8-47E5-938A-2D3C53CE8939}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE38B0AF-7DA8-47E5-938A-2D3C53CE8939}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FE38B0AF-7DA8-47E5-938A-2D3C53CE8939}.Debug|x86.Build.0 = Debug|Any CPU
+		{FE38B0AF-7DA8-47E5-938A-2D3C53CE8939}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE38B0AF-7DA8-47E5-938A-2D3C53CE8939}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE38B0AF-7DA8-47E5-938A-2D3C53CE8939}.Release|x86.ActiveCfg = Release|Any CPU
+		{FE38B0AF-7DA8-47E5-938A-2D3C53CE8939}.Release|x86.Build.0 = Release|Any CPU
+		{32B9F4E0-C446-4D8A-A578-090F97E66436}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32B9F4E0-C446-4D8A-A578-090F97E66436}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32B9F4E0-C446-4D8A-A578-090F97E66436}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{32B9F4E0-C446-4D8A-A578-090F97E66436}.Debug|x86.Build.0 = Debug|Any CPU
+		{32B9F4E0-C446-4D8A-A578-090F97E66436}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32B9F4E0-C446-4D8A-A578-090F97E66436}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32B9F4E0-C446-4D8A-A578-090F97E66436}.Release|x86.ActiveCfg = Release|Any CPU
+		{32B9F4E0-C446-4D8A-A578-090F97E66436}.Release|x86.Build.0 = Release|Any CPU
+		{66D7C81F-AFD9-45DD-A0DF-3996DE331F77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66D7C81F-AFD9-45DD-A0DF-3996DE331F77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66D7C81F-AFD9-45DD-A0DF-3996DE331F77}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{66D7C81F-AFD9-45DD-A0DF-3996DE331F77}.Debug|x86.Build.0 = Debug|Any CPU
+		{66D7C81F-AFD9-45DD-A0DF-3996DE331F77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66D7C81F-AFD9-45DD-A0DF-3996DE331F77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66D7C81F-AFD9-45DD-A0DF-3996DE331F77}.Release|x86.ActiveCfg = Release|Any CPU
+		{66D7C81F-AFD9-45DD-A0DF-3996DE331F77}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

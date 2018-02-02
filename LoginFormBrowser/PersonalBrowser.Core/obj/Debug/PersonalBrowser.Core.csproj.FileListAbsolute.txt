@@ -1,0 +1,14 @@
+C:\Users\Milkey\Downloads\LoginFormBrowser\LoginFormBrowser\PersonalBrowser.Core\bin\Debug\PersonalBrowser.Core.dll.config
+C:\Users\Milkey\Downloads\LoginFormBrowser\LoginFormBrowser\PersonalBrowser.Core\bin\Debug\PersonalBrowser.Core.dll
+C:\Users\Milkey\Downloads\LoginFormBrowser\LoginFormBrowser\PersonalBrowser.Core\bin\Debug\PersonalBrowser.Core.pdb
+C:\Users\Milkey\Downloads\LoginFormBrowser\LoginFormBrowser\PersonalBrowser.Core\bin\Debug\AutoMapper.dll
+C:\Users\Milkey\Downloads\LoginFormBrowser\LoginFormBrowser\PersonalBrowser.Core\bin\Debug\EntityFramework.dll
+C:\Users\Milkey\Downloads\LoginFormBrowser\LoginFormBrowser\PersonalBrowser.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Milkey\Downloads\LoginFormBrowser\LoginFormBrowser\PersonalBrowser.Core\bin\Debug\NLog.dll
+C:\Users\Milkey\Downloads\LoginFormBrowser\LoginFormBrowser\PersonalBrowser.Core\bin\Debug\AutoMapper.xml
+C:\Users\Milkey\Downloads\LoginFormBrowser\LoginFormBrowser\PersonalBrowser.Core\bin\Debug\EntityFramework.xml
+C:\Users\Milkey\Downloads\LoginFormBrowser\LoginFormBrowser\PersonalBrowser.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Milkey\Downloads\LoginFormBrowser\LoginFormBrowser\PersonalBrowser.Core\bin\Debug\NLog.xml
+C:\Users\Milkey\Downloads\LoginFormBrowser\LoginFormBrowser\PersonalBrowser.Core\obj\Debug\PersonalBrowser.Core.csprojResolveAssemblyReference.cache
+C:\Users\Milkey\Downloads\LoginFormBrowser\LoginFormBrowser\PersonalBrowser.Core\obj\Debug\PersonalBrowser.Core.dll
+C:\Users\Milkey\Downloads\LoginFormBrowser\LoginFormBrowser\PersonalBrowser.Core\obj\Debug\PersonalBrowser.Core.pdb
